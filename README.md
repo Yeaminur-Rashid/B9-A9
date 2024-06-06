@@ -1,8 +1,16 @@
-# React + Vite
+# Website Name: Agricultural land
+# Live link : 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Bullet Points 
+* Making a simple and beautiful user interface with responsive design for both mobile, desktop, and tablet, focused mainly on functionality.
+* Adding a user profile creation method and accessing the user profile for further use during the logout stage using Firebase technology.
+* Using the React library to simplify complex user interfaces by breaking them down into easily manageable code block components.
+* Including a user information updating method using Firebase technology.
+* Showing sweet alert message for remarkable update and changes.
+* Switching to multiple pages using React Router Dom.
+* Using Tailwind to create smooth designs.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# npm packages
+* Swiper slider
+* AOS package
+* React Hook form
